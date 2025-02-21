@@ -14,7 +14,7 @@ st.sidebar.title("Navegación")
 st.sidebar.write("Explora nuestras categorías y novedades")
 
 # Imagen de introducción
-st.image("https://www.example.com/sneakers-shop.jpg", use_container_width=True)
+st.image("https://www.whatawonderfulworld.guide/wp-content/uploads/2024/07/The-most-exclusive-sneaker-shops-in-London-2.jpg", use_container_width=True)
 
 st.write("""
     Bienvenido a **Sneaker Shop**, tu tienda favorita para comprar las mejores zapatillas deportivas. 
